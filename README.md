@@ -24,6 +24,11 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 > 🔹 The system integrates *World Modeling*, *SOTIF principles*, *Human–Machine Interaction*, and *Hazard Identification (HIRA)*  
 > 🔹 Supporting both symbolic reasoning (ontology) and data-driven adaptation (machine learning)
 
+下图展示了“左脑执行系统 + 右脑安全系统”的总体结构：  
+
+![System Architecture]([./images/architecture.png](https://github.com/ShaoboQiu/World-Model-and-Artificial-Consciousness-for-Dual-Brain-Driven-AV/blob/main/images/Picture1.png)
+
+
 ---
 
 ## 📚 Related Research | 相关研究
