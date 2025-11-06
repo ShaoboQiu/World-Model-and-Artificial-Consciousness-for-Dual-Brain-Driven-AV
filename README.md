@@ -77,12 +77,16 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 💡 Acknowledgements | 致谢
 
-This work is part of the **EPTech** research column on *World Models and AI Consciousness*.  
-Special thanks to collaborators and open-source contributors working on ontology-based safety reasoning.
+This work is part of the **EPTech** research column on *World Models and AI Consciousness*，led by
 
+Academician Li Jun, Tsinghua University
+
+Special thanks to collaborators and open-source contributors working on ontology-based safety reasoning:
+
+Guoxi Chen, EPTech
 ![System EPTechLogo](./images/Picture4.png)
 
-EPTech
+Hong Wang, Tsinghua University
 
 ---
 
