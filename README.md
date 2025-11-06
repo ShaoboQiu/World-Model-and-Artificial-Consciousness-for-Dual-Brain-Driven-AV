@@ -77,7 +77,9 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ## 💡 Acknowledgements | 致谢
 
-![System EPTechLogo](./images/Picture4.png)
+<p align="left">
+  <img src="./images/logo.png" width="100">
+</p>
 
 This work is part of the **EPTech** research column on *World Models and AI Consciousness*，led by
 
