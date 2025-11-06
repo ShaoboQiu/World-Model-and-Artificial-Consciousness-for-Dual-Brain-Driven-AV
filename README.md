@@ -1,6 +1,6 @@
 # 🌍 World Model and Artificial Consciousness for Dual-Brain-Driven Autonomous Vehicles
 
-**自动驾驶的世界模型：执行左脑 + 安全右脑（EPTech 专栏）**  
+**自动驾驶的世界模型与AI意识：执行左脑 + 安全右脑（EPTech 专栏）**  
 **World Model for Autonomous Driving — Executing the Left-Brain and Safety Right-Brain Architecture**  
 *AI Consciousness Requires Multi-Layer Abstract Thinking*
 
@@ -14,29 +14,21 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 
 本项目提出一种面向自动驾驶的“双脑架构”：  
 左脑负责**感知与执行**，右脑负责**安全推理与风险预测**，  
-通过知识图谱与AI意识模型提升自动驾驶系统的安全性与可解释性。
 
 ---
 
 ## 🏗️ Architecture | 系统架构
 
 
-> 🔹 The system integrates *World Modeling*, *SOTIF principles*, *Human–Machine Interaction*, and *Hazard Identification (HIRA)*  
-> 🔹 Supporting both symbolic reasoning (ontology) and data-driven adaptation (machine learning)
-
-
 下图展示了“左脑执行系统 + 右脑安全系统”的总体结构：  
 
 ![System Architecture](./images/Picture1.png)
 
-
-
 ---
 
 ## 📚 Related Research | 相关研究
-
-- **Fei-Fei Li** — *Spatial Intelligence and World Models*  
-- **Marvin Minsky** — *The Society of Mind & Multi-layer Cognition*  
+ 
+- **Marvin Minsky** — *The Society of Mind  
 - **ISO 26262 / SOTIF** — *Functional Safety and Safety of the Intended Functionality*  
 - **HIRA Framework** — *Hazard Identification and Risk Assessment*
 
@@ -51,11 +43,10 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 
 | 模块 | 英文名称 | 功能简介 |
 |------|-----------|----------|
-| 左脑 | Intuitive Perception Engine | 感知与轨迹执行 |
-| 右脑 | Reasoning Engine for Traffic Regulation | 交通规则与防御性驾驶推理 |
-| 安全性 | Hazard Identification and Risk Assessment (HIRA) | 危险识别与风险预测 |
-| 行为层 | Interaction Behavior Design | 行为意图与交互控制 |
-| 认知层 | AI Consciousness Model | 多层抽象思维与意识建模 |
+| 规则引擎 | Rules Engine | 物理规则和交通规则 |
+| 防御驾驶推理引擎 | Defensive Driving Inferencing Engine | 常识推理 |
+| 直觉判断引擎 | Intuitive Perception Engine | 根据事故经验识别危险场景模式 |
+| 协调器 | Coordinator | 协调左右脑的决策冲突 |
 
 ---
 
