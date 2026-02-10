@@ -15,6 +15,8 @@ while the *Right Brain* focuses on **safety reasoning, risk prediction, and rule
 本项目提出一种面向自动驾驶的“双脑架构”：  
 左脑负责**感知与执行**，右脑负责**安全推理与风险预测**，  
 
+Design premises and non-delegable judgment principles are articulated in the Judgment Before Intelligence repository.
+
 ---
 
 ## 🏗️ Architecture | 系统架构
